@@ -52,6 +52,8 @@ h1 {
 
 ::placeholder {
     font-size: 1.3em;
+    font-family: 'Shippori Antique', sans-serif;
+
 }
 
 #additional-comments {
@@ -64,5 +66,15 @@ h1 {
     height: 30px;
     color: white;
     background-color: green;
-    border: 2px solid black;
+    border: 1px solid black;
+}
+
+moto {
+    font-size: 1.3em;
+    font-family: 'Shippori Antique', sans-serif;
+}
+
+#submit:hover {
+    background-color: rgb(7, 255, 7);
+    transition: background-color, 1s, ease-in-out, 3s;
 }
