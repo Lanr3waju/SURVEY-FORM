@@ -1,6 +1,6 @@
 # Survey Form
 
-> This is a project that concentrates on the knowledge of  HTML forms and the CSS styling of HTML forms
+> This is a project that concentrates on the knowledge of HTML forms and the CSS styling of HTML forms
 
 ![screenshot](./img/preview.png)
 
