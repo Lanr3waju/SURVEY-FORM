@@ -1,6 +1,6 @@
-# Project Name
+# Survey Form
 
-> One paragraph statement about the project.
+> This is a project that concentrates on the knowledge of  HTML forms and the CSS styling of HTML forms
 
 ![screenshot](./img/preview.png)
 
